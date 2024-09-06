@@ -30,7 +30,6 @@ The Cab Booking System is a backend-driven project developed using Java in Eclip
 
 - **Backend**: Java (Eclipse IDE)
 - **Database**: MySQL (MySQL Workbench)
-- **Frontend**: HTML, CSS, JavaScript (if applicable for front-end interface)
 - **Server**: Apache Tomcat (optional for local testing)
 
 ## Database Design
